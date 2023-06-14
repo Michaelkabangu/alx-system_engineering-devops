@@ -1,1 +1,1 @@
-my first commit
+this is my readme file on shell basics

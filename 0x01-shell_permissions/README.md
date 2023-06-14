@@ -1,1 +1,1 @@
-My second readme
+My readme file on shell permissions 
