@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l -t -1
+ls -lt -1 12-newest_files
